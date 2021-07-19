@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**hun756/hun756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **hun756/hun756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun756&show_icons=true&count_private=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun756&layout=compact)](https://github.com/hun756)
+
