@@ -20,18 +20,15 @@
 </p>
 
 ---
-
 ## About Me
 
-- I work on **game technology**, **systems programming**, and **performance-oriented software**
-- I enjoy building **low-level abstractions**, **optimized libraries**, and **production-grade developer tooling**
-- My main interests include:
-  - high-performance C++
-  - Rust systems development
-  - TypeScript architecture
-  - Zig experiments
-  - security/performance middleware
-  - math and algorithm libraries
+- I build **game technology**, **WebGL-oriented runtime systems**, and **performance-focused developer tooling**
+- I’m especially interested in:
+  - browser-native game engine architecture
+  - rendering and runtime systems
+  - low-level optimization
+  - native libraries for performance-sensitive workloads
+  - reusable math, utility, and systems components
 
 ---
 
