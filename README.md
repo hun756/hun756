@@ -94,19 +94,6 @@
 
 ---
 
-## Open Source Direction
-
-I’m especially interested in projects related to:
-
-- game-tech infrastructure
-- low-level systems programming
-- performance tooling
-- secure backend components
-- modern library design
-- algorithms and data structures
-
----
-
 <p align="center">
   <sub>Focused on building fast, reliable, and well-engineered software.</sub>
 </p>
