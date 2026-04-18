@@ -107,14 +107,6 @@ I’m especially interested in projects related to:
 
 ---
 
-## Connect
-
-<p>
-  <a href="https://github.com/hun756">GitHub</a>
-</p>
-
----
-
 <p align="center">
   <sub>Focused on building fast, reliable, and well-engineered software.</sub>
 </p>
