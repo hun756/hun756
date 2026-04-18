@@ -50,23 +50,22 @@
 
 ## Featured Projects
 
-### Security & Backend
-- **[actix_web_csp](https://github.com/hun756/actix_web_csp)**  
-  High-performance Content Security Policy middleware for Actix Web, focused on production security, nonce/hash support, and low overhead.
+### [Axrone](https://github.com/hun756/Axrone)
+A modern **TypeScript-first game-tech project** centered around **web-based rendering and engine architecture**.  
+This is the project I want to push most visibly on my profile: a **WebGL-oriented engine / runtime direction** focused on interactive graphics, structured engine systems, and scalable game tooling.
 
-### Performance & Validation
-- **[email_syntax_verify_opt](https://github.com/hun756/email_syntax_verify_opt)**  
-  Ultra-fast, zero-allocation email syntax validation library with strong performance characteristics and enterprise-oriented design.
+### [neitrify](https://github.com/hun756/neitrify)
+A performance-oriented **image compression library** built with a strong focus on efficient native tooling, clean architecture, and practical production workflows.  
+This project represents my interest in **media processing**, **performance-sensitive native code**, and **developer-friendly library design**.
 
-### Algorithms & Libraries
-- **[zigonic](https://github.com/hun756/zigonic)**  
-  Production-oriented Zig algorithm library with optimized data structures, parallel algorithms, and broad algorithmic coverage.
+### [umath](https://github.com/hun756/umath)
+A **math library for game development**, built around reusable low-level primitives that are useful in rendering, gameplay systems, and engine-side utilities.
 
-- **[umath](https://github.com/hun756/umath)**  
-  Math library built for game development workflows.
+### [actix_web_csp](https://github.com/hun756/actix_web_csp)
+A **Content Security Policy middleware for Actix Web**, designed for secure backend systems with production-minded ergonomics and low overhead.
 
-- **[std_expected_polyfill_cpp11](https://github.com/hun756/std_expected_polyfill_cpp11)**  
-  A C++-focused utility project around `std::expected`-style ergonomics for older language targets.
+### [zigonic](https://github.com/hun756/zigonic)
+An **algorithm library in Zig**, reflecting my interest in modern systems languages, low-level control, and performance-aware abstractions.
 
 ---
 
